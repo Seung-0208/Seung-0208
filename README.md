@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=300&section=header&text=Fly%20Penguin🐧&fontSize=90&fontColor=C0F7FF)
-
-## 🐧Fly Penguin🐧
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=250&section=header&text=Fly%20Penguin🐧&fontSize=90&fontColor=C0F7FF)
 
 <!--
 **Seung-0208/Seung-0208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-0208&show_icons=true&theme=graywhite) <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=esybd02)](https://solved.ac/esybd02/)
+<!--<div align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-0208&show_icons=true&theme=graywhite) <br/></div>-->
+<div align="center">[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=esybd02)](https://solved.ac/esybd02/)</div>
