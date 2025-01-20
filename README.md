@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=250&section=header&text=Fly%20Penguin🐧&fontSize=90&fontColor=C0F7FF)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:6DFFFD,100:0077FF&height=150&section=header&text=Fly%20Penguin🐧&fontSize=90&fontColor=C0F7FF)
 <!--
 뱃지제작 링크 : https://simpleicons.org/?q=docker
 참고 프로필
