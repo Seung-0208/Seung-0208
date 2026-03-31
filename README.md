@@ -45,7 +45,6 @@
 ---
 <br/>
 
-
 <!--깃허브 레벨-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seung-0208&show_icons=true&theme=graywhite) <br/>-->
 
@@ -53,3 +52,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=esybd02)](https://solved.ac/esybd02/) 
 
 </div>
+
+<img width="799" height="6116" alt="A4 - 15" src="https://github.com/user-attachments/assets/e0fade46-dcd2-4b7e-b66a-ad8ce8254433" />
